@@ -51,7 +51,7 @@ You can also launch the server with dummy players for testing or observation.
 
 ## Authors
 
-*   **Antonio Sessa** (0622702305) - a.sessa108@studenti.unisa.it
-*   **Angelo Molinario** (0622702311) - a.molinario3@studenti.unisa.it
-*   **Massimiliano Ranauro** (0622702373) - m.ranauro2@studenti.unisa.it
-*   **Pietro Martano** (0622702402) - p.martano@studenti.unisa.it
+*   [Pietro Martano](https://github.com/pietroemme)
+*   [Angelo Molinario](https://github.com/amolinario3)
+*   [Massimiliano Ranauro](https://github.com/MassimilianoRanauro)
+*   [Antonio Sessa](https://github.com/Antuke)
