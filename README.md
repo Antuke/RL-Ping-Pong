@@ -2,6 +2,8 @@
 
 This repository contains a Reinforcement Learning project where a robot arm learns to play ping pong using the **Deep Deterministic Policy Gradient (DDPG)** algorithm. The environment is simulated using **PyBullet**.
 
+Check also the report.pdf and slide.pdf for more information about the assignment and design choices.
+
 ## Project Structure
 
 *   `server.py`: The PyBullet simulation environment (server). **(Provided as part of the assignment)**
@@ -30,28 +32,9 @@ To see the trained agent in action, you need to run the server and the client in
     python test.py
     ```
 
-### Running with Dummy Players
-
-You can also launch the server with dummy players for testing or observation.
-
-*   **One Dummy Player:**
-    ```bash
-    python server.py --dummy
-    ```
-
-*   **Two Dummy Players:**
-    ```bash
-    python server.py --dummy --dummy
-    ```
-
-*   **No GUI (Headless):**
-    ```bash
-    python server.py --dummy --nogui
-    ```
-
 ## Authors
 
-*   **Antonio Sessa** (0622702305) - a.sessa108@studenti.unisa.it
-*   **Angelo Molinario** (0622702311) - a.molinario3@studenti.unisa.it
-*   **Massimiliano Ranauro** (0622702373) - m.ranauro2@studenti.unisa.it
-*   **Pietro Martano** (0622702402) - p.martano@studenti.unisa.it
+*   [Pietro Martano](https://github.com/pietroemme)
+*   [Angelo Molinario](https://github.com/amolinario3)
+*   [Massimiliano Ranauro](https://github.com/MassimilianoRanauro)
+*   [Antonio Sessa](https://github.com/Antuke)
