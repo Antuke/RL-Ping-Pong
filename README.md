@@ -30,25 +30,6 @@ To see the trained agent in action, you need to run the server and the client in
     python test.py
     ```
 
-### Running with Dummy Players
-
-You can also launch the server with dummy players for testing or observation.
-
-*   **One Dummy Player:**
-    ```bash
-    python server.py --dummy
-    ```
-
-*   **Two Dummy Players:**
-    ```bash
-    python server.py --dummy --dummy
-    ```
-
-*   **No GUI (Headless):**
-    ```bash
-    python server.py --dummy --nogui
-    ```
-
 ## Authors
 
 *   [Pietro Martano](https://github.com/pietroemme)
